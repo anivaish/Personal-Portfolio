@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Code Fusion-Realtime Collaboration",
+    "desc": "It allows multiple users to write their code logic collaboratively on same IDE in Realtime.",
+    "image": "codefusion",
+    "category": "mern",
+    "links": {
+      "view": "https://code-fusion-ani.onrender.com/",
+      "code": "https://github.com/anivaish/Code-Fusion"
+    }
+  },
+  {
+    "name": "Share Link-Easy File Sharing",
+    "desc": "A full stack project through which user can remotely share a file of max-size 1GB just by generating a link.",
+    "image": "sharelink",
+    "category": "mern",
+    "links": {
+      "view": "https://sharelink-ani.onrender.com/",
+      "code": "https://github.com/anivaish/Sharelink-Backend"
+    }
+  },
+  {
+    "name": "Notes Bank",
+    "desc": "A React JS project, User can write up notes in it and arrange them accordingly.Basically a clone of goole keep app.",
+    "image": "notesbank",
+    "category": "mern",
+    "links": {
+      "view": "https://notes-bank.netlify.app/",
+      "code": "https://github.com/anivaish/Notes-Bank"
+    }
+  },
+  {
+    "name": "Memory Matching Game",
+    "desc": "Javascript based Fun game to match all the pairs of images by unflipping the cards with timer and moves tracking.",
+    "image": "memmatch",
+    "category": "mern",
+    "links": {
+      "view": "https://mem-match.netlify.app/",
+      "code": "https://github.com/anivaish/Memory-Match"
+    }
+  },
+  {
+    "name": "Auto-Quote Generator",
+    "desc": "It generates a new quote in one click and it can be shared as a post on twitter through bird icon",
+    "image": "autoquote",
+    "category": "lamp",
+    "links": {
+      "view": "https://anivaish.github.io/AutoQuote_Generator/",
+      "code": "https://github.com/anivaish/AutoQuote_Generator"
+    }
+  },
+  {
+    "name": "University Website-Frontend",
+    "desc": "A Basic Frontend design website for university and colleges.With Beautiful CSS effects and smooth scrolling.",
+    "image": "univfront",
+    "category": "basicweb",
+    "links": {
+      "view": "https://anivaish.github.io/University-Website-Frontend",
+      "code": "https://github.com/anivaish/University-Website-Frontend"
+    }
+  }
+]
