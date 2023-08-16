@@ -12,28 +12,29 @@
         "icon":  "./logo-icons/icons8-javascript-48.png"
     },
     {
-        "name": "React",
+        "name": "React.JS",
         "icon": "./logo-icons/react.png"
     },
     {
-        "name": "MaterialUI",
-        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
+        "name": "Node.JS",
+        "icon": "./logo-icons/icons8-nodejs-48.png"
     },
     {
-        "name": "Git",
-        "icon": "https://img.icons8.com/color/48/000000/git.png"
+        "name": "SQL",
+        "icon": "./logo-icons/icons8-my-sql-48.png"
+    },
+    {
+        "name": "Material UI",
+        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
+        
     },
     {
         "name": "C++",
         "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
     },
     {
-        "name": "Java",
-        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
-    },
-    {
-        "name": "NodeJS",
-        "icon": "./logo-icons/icons8-nodejs-48.png"
+        "name": "Git",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
     },
     {
         "name": "MongoDB",
